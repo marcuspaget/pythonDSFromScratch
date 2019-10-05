@@ -16,6 +16,15 @@
 'mark'
 ```
 
+Use get method to obtain a value if key exists is not known, can then return default message
+
+```python
+>>> user.get("C","Not Found ! ")
+'Not Found ! '
+>>> user.get("name","Not Found ! ")
+'mark'
+```
+
 ## All keys are unique. List with dict.keys();
 
 ```python
