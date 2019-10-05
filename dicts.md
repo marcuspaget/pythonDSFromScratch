@@ -1,6 +1,16 @@
 
 # DICTs
 ## Collection/set key-val pairs, listed in {}.  Qry using brackets []
+
+```python
+>>> user={"id":0, "name":"mark"}
+```
+
+```python
+>>> user.keys()
+['id', 'name']
+```
+
 ## All keys are unique. List with dict.keys();
 
 ```python
