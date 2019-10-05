@@ -11,6 +11,11 @@
 ['id', 'name']
 ```
 
+```python
+>>> user['name']
+'mark'
+```
+
 ## All keys are unique. List with dict.keys();
 
 ```python
